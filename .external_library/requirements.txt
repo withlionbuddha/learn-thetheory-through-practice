@@ -1,0 +1,14 @@
+# To build this project, you need Microsoft C++ Build Tools.
+# Download from: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+setuptools>=65.0.0
+
+#kernel 
+ipykernel
+
+#Matplotlib
+wheel
+Matplotlib
+
+#Numpy
+numpy==2.0.2
