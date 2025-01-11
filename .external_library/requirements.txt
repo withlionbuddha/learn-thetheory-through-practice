@@ -12,3 +12,9 @@ Matplotlib
 
 #Numpy
 numpy==2.0.2
+
+#pandas
+pandas 
+
+seaborn
+
