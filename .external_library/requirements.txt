@@ -18,3 +18,4 @@ pandas
 
 seaborn
 
+factor_analyzer

@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+			"terminal.integrated.env.windows": {
+			"WORKSPACE_FOLDER" : "${workspaceFolder}"
+			} 
+			,
+			// lib가  ./venv/Lib/site-packages의 내부에에 설치되었음에도 import 오류가 날때
+			// VS Code의 Python 언어 서버(Pylance 등)가 기본경로(sys.path)외에 추가 경로에서 lib를 찾도록 경로지정.
+			"python.analysis.extraPaths": [
+				"./.venv/Lib/site-packages"
+			]
+		}
+}
