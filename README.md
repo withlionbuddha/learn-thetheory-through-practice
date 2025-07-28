@@ -3,7 +3,7 @@
 ## LICENSE 라이센스
 
 - Research Use (Free): 
-  See [RESEARCH LICENSE](./licenses/RESEARCH LICENSE) for details.
+  See [RESEARCH LICENSE](<./licenses/RESEARCH LICENSE>) for details.
 
 ## THIRD PARTY LICENSE 
 
