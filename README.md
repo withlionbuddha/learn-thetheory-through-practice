@@ -9,14 +9,14 @@
 
 | LIBRARY          | VERSION | LICENSE                                 | PATH                                                 |
 | ---------------- | ------- | --------------------------------------- | ---------------------------------------------------- |
-| setuptools       | 80.9.0  | MIT License ([GitHub][1])               | `third-party-licenses/setuptools-80.9.0/LICENSE`     |
-| ipykernel        | 6.30.0  | BSD 3‑Clause License ([PyPI][2])        | `third-party-licenses/ipykernel-6.30.0/LICENSE`      |
-| wheel            | 0.45.1  | MIT License ([PyPI][3])                 | `third-party-licenses/wheel-0.45.1/LICENSE`          |
-| matplotlib       | 3.10.3  | PSF‑based (BSD‑Style) ([Matplotlib][4]) | `third-party-licenses/matplotlib-3.10.3/LICENSE`     |
-| numpy            | 2.0.2   | BSD 3‑Clause License ([numpy.org][5])   | `third-party-licenses/numpy-2.0.2/LICENSE`           |
-| pandas           | 2.3.1   | BSD 3‑Clause License ([Pandas][6])      | `third-party-licenses/pandas-2.3.1/LICENSE`          |
-| seaborn          | 0.13.2  | BSD 3‑Clause License ([PyPI][7])        | `third-party-licenses/seaborn-0.13.2/LICENSE`        |
-| factor\_analyzer | 0.5.1   | GPL‑2.0‑or‑later ([PyPI][8])            | `third-party-licenses/factor_analyzer-0.5.1/LICENSE` |
+| setuptools       | 80.9.0  | MIT License ([GitHub][1])               | `THIRD-PARTY-LICENSES/`                              |
+| ipykernel        | 6.30.0  | BSD 3‑Clause License ([PyPI][2])        | `THIRD-PARTY-LICENSES/`                              |
+| wheel            | 0.45.1  | BSD 3-Clause License ([PyPI][3])        | `THIRD-PARTY-LICENSES/`                              |
+| matplotlib       | 3.10.3  | PSF‑based (BSD‑Style) ([Matplotlib][4]) | `THIRD-PARTY-LICENSES/`                              |
+| numpy            | 2.0.2   | BSD 3‑Clause License ([numpy.org][5])   | `THIRD-PARTY-LICENSES/`                              |
+| pandas           | 2.3.1   | BSD 3‑Clause License ([Pandas][6])      | `THIRD-PARTY-LICENSES/`                              |
+| seaborn          | 0.13.2  | BSD 3‑Clause License ([PyPI][7])        | `THIRD-PARTY-LICENSES/`                              |
+| factor_analyzer  | 0.5.1   | GNU General Public License (>= 2)([PyPI][8])| `THIRD-PARTY-LICENSES/`                          |
 
 [1]: https://github.com/pypa/setuptools/blob/main/LICENSE?utm_source=chatgpt.com "MIT license - pypa/setuptools - GitHub"
 [2]: https://pypi.org/project/ipykernel/?utm_source=chatgpt.com "ipykernel - PyPI"
