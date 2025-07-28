@@ -1,6 +1,6 @@
 # Learn the theory through practice
 
-## LICENSE 라이센스
+## LICENSE 라이선스
 
 - Research Use (Free): 
   See [RESEARCH LICENSE](<./LICENSES/LICENSE>) for details.
