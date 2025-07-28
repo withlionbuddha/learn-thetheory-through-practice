@@ -1,21 +1,11 @@
 # To build this project, you need Microsoft C++ Build Tools.
 # Download from: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
-setuptools>=65.0.0
-
-#kernel 
-ipykernel
-
-#Matplotlib
-wheel
-Matplotlib
-
-#Numpy
+setuptools>=80.9.0
+ipykernel==6.30.0
+wheel==0.45.1
+Matplotlib==3.10.3
 numpy==2.0.2
-
-#pandas
-pandas 
-
-seaborn
-
-factor_analyzer
+pandas==2.3.1
+seaborn==0.13.2
+factor_analyzer==0.5.1
