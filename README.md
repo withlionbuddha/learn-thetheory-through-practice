@@ -1,1 +1,3 @@
-# practice
+# learn the theory through practice
+
+
