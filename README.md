@@ -1,4 +1,4 @@
-# learn the theory through practice
+# Learn the theory through practice
 
 ## LICENSE 라이센스
 
