@@ -6,7 +6,7 @@
 	],
 	"settings": {
 			"terminal.integrated.env.windows": {
-			"WORKSPACE_FOLDER" : "${workspaceFolder}"
+				"WORKSPACE_FOLDER" : "${workspaceFolder}"
 			} 
 			,
 			// lib가  ./venv/Lib/site-packages의 내부에 설치되었음에도 import 오류가 날때
