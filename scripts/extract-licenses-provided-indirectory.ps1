@@ -62,10 +62,18 @@ foreach ($spec in $specs) {
               Join-Path -ChildPath $name
     New-Item -ItemType Directory -Path $outDir -Force | Out-Null
 
-    # 파일 복사
+                # 파일 복사: 하위 폴더 구조 유지하며 extracted 폴더에 LICENSE 배치
     foreach ($file in $licenseFiles) {
-        Copy-Item -Path $file.FullName -Destination (Join-Path $outDir $file.Name) -Force
-        Write-Host "→ $($name): Extracted $($file.Name)"
+        # 원본 디렉터리($dirs) 중 해당 파일이 속한 루트 찾기
+        $parentDir = $dirs | Where-Object { $file.FullName.StartsWith($_.FullName) } | Select-Object -First 1
+        # 파일의 상대 경로 (subfolder path)
+        $relPath = $file.FullName.Substring($parentDir.FullName.Length).TrimStart('\')
+        $subDir = Split-Path $relPath -Parent
+        # 대상 하위 폴더 생성
+        $targetDir = if ($subDir) { Join-Path $outDir $subDir } else { $outDir }
+        if (-not (Test-Path $targetDir)) { New-Item -ItemType Directory -Path $targetDir -Force | Out-Null }
+        Copy-Item -Path $file.FullName -Destination (Join-Path $targetDir $file.Name) -Force
+        Write-Host "→ $($name): Extracted $($relPath)"
     }
 }
 
