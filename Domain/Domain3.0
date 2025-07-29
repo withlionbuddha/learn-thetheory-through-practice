@@ -1,0 +1,214 @@
+Objective 3.1
+Design machine and deep learning models (문항 1–20)
+
+1. 지도학습과 비지도학습 모델의 차이점을 설명하세요.
+
+2. 분류(classification)와 회귀(regression) 모델의 주요 차이점을 기술하세요.
+
+3. CNN(Convolutional Neural Network)의 구조와 주요 구성 요소를 설명하세요.
+
+4. RNN(Recurrent Neural Network)이 시계열 데이터 처리에 적합한 이유를 설명하세요.
+
+5. 의사결정나무(Decision Tree)의 장단점을 서술하세요.
+
+6. 앙상블 학습(Ensemble Learning)의 개념과 대표적 활용 예시를 제시하세요.
+
+7. 랜덤 포레스트(Random Forest) 알고리즘의 작동 원리를 간단히 설명하세요.
+
+8. 그래디언트 부스팅(Gradient Boosting)과 XGBoost의 차이를 설명하세요.
+
+9. SVM(Support Vector Machine)의 핵심 아이디어와 커널 트릭(kernel trick)을 설명하세요.
+
+10. 로지스틱 회귀(Logistic Regression)가 분류 문제에 사용되는 이유를 설명하세요.
+
+11. K-최근접 이웃(KNN)의 매개변수 k가 모델 성능에 미치는 영향을 제시하세요.
+
+12. 다층 퍼셉트론(MLP)의 구조와 특징을 설명하세요.
+
+13. 심층 신경망(Deep Neural Network)에서 활성화 함수(Activation Function)의 역할을 설명하세요.
+
+14. 오토인코더(Autoencoder)의 구조와 대표 활용 사례를 서술하세요.
+
+15. CNN에서 풀링(Pooling) 계층이 수행하는 역할을 설명하세요.
+
+16. Dropout 기법이 과적합(overfitting)을 방지하는 원리를 기술하세요.
+
+17. 배치 정규화(Batch Normalization)의 효과와 작동 원리를 서술하세요.
+
+18. 전이 학습(Transfer Learning)의 개념과 장점을 설명하세요.
+
+19. 사전 훈련된 임베딩(Pretrained Embedding)을 모델 설계에 활용하는 방법을 제시하세요.
+
+20. AutoML 도구를 사용해 모델을 설계할 때 유의사항을 쓰세요.
+
+Objective 3.2
+Optimize the algorithm (structure, runtime, hyperparameters) (문항 21–40)
+
+21. 하이퍼파라미터와 파라미터의 차이를 설명하세요.
+
+22. Grid Search와 Random Search의 장단점을 비교하세요.
+
+23. 베이지안 최적화(Bayesian Optimization)의 기본 원리를 설명하세요.
+
+24. 학습률(Learning Rate)이 모델 학습에 미치는 영향을 기술하세요.
+
+25. 옵티마이저(Optimizer)로 Adam과 SGD를 비교하세요.
+
+26. 배치 크기(Batch Size)가 학습 속도와 성능에 미치는 영향을 서술하세요.
+
+27. 에포크(Epoch) 수를 결정하는 기준을 제안하세요.
+
+28. Early Stopping 기법의 목적과 구현 방법을 설명하세요.
+
+29. Pruning 기법이 모델 구조 최적화에 어떻게 기여하는지 서술하세요.
+
+30. 지식 증류(Knowledge Distillation)의 개념과 활용 예를 제시하세요.
+
+31. 하이퍼파라미터 튜닝 시 교차검증(Cross-Validation)이 필요한 이유를 쓰세요.
+
+32. 학습 속도를 높이기 위한 GPU 병렬 처리의 원리를 간단히 설명하세요.
+
+33. 학습 시간(Time Complexity)과 추론 시간(Inference Time)의 차이를 제시하세요.
+
+34. 모델 압축(Model Compression) 기법 세 가지와 그 목적을 설명하세요.
+
+35. 메모리 사용량을 최적화하는 방법을 두 가지 제안하세요.
+
+36. FP16(Half-Precision) 연산이 학습·추론에 미치는 이점을 설명하세요.
+
+37. 모델 병렬화(Model Parallelism)와 데이터 병렬화(Data Parallelism)의 차이를 설명하세요.
+
+38. 네트워크 아키텍처 검색(Neural Architecture Search)의 개념과 장점을 기술하세요.
+
+39. 배치 정규화 대신 그룹 정규화(Group Normalization)를 선택할 때 고려할 점을 서술하세요.
+
+40. 옵티마이저의 모멘텀(Momentum) 파라미터가 학습에 미치는 효과를 설명하세요.
+
+Objective 3.3: Train, validate, and test data subsets (문항 41–60)
+
+41. 훈련 세트(Training Set), 검증 세트(Validation Set), 테스트 세트(Test Set)의 역할을 설명하세요.
+
+42. 계층화(stratified sampling)가 필요한 경우와 이유를 제시하세요.
+
+43. 검증 세트 과다 사용 시 발생하는 문제를 설명하세요.
+
+44. k-겹 교차검증(k-fold cross-validation)과 홀드아웃(Hold-Out)의 차이를 비교하세요.
+
+45. 시계열 데이터 분할 시 유의해야 할 점을 서술하세요.
+
+46. 그룹 교차검증(Grouped Cross-Validation)의 개념과 활용 예를 제시하세요.
+
+47. 데이터 누수(Data Leakage)의 정의와 방지 방법을 설명하세요.
+
+48. OOB(Out-of-Bag) 평가 방식이 사용되는 알고리즘과 원리를 기술하세요.
+
+49. 교차검증 시 k 값을 결정하는 기준을 제시하세요.
+
+50. 검증 과정에서 과적합을 방지하기 위한 전략을 쓰세요.
+
+51. 테스트 세트를 유지해야 하는 이유를 설명하세요.
+
+52. 데이터 크기가 작은 경우 권장되는 검증 방법을 제안하세요.
+
+53. 학습 중 검증 손실(validation loss)이 증가할 때의 대응 방안을 설명하세요.
+
+54. 샘플링 편향(Sampling Bias)을 최소화하는 방법을 제안하세요.
+
+55. 교차검증 결과의 분산(variance)을 해석하는 방법을 서술하세요.
+
+56. 템퍼럴 분할(Temporal Split) 검증 방법을 설명하세요.
+
+57. 재현 실험을 위해 랜덤 시드(Random Seed)를 고정하는 이유를 쓰세요.
+
+58. 검증 지표가 서로 모순될 때 해결책을 제시하세요.
+
+59. 모델 배포 전 테스트 세트로 최종 평가하는 절차를 설명하세요.
+9
+60. 신규 데이터가 들어왔을 때 분할 전략을 어떻게 재설계할지 제안하세요.
+
+Objective 3.4
+Evaluate the model (문항 61–80)
+
+61. 정확도(Accuracy)와 정밀도(Precision)의 차이를 설명하세요.
+
+62. 재현율(Recall)과 F1-스코어 사이의 관계를 서술하세요.
+
+63. ROC 곡선과 AUC(Area Under Curve)의 의미를 정의하세요.
+
+64. PR 곡선(Precision-Recall Curve)이 ROC 곡선보다 유용한 경우를 설명하세요.
+
+65. 혼동 행렬(Confusion Matrix)을 구성하는 네 가지 요소를 쓰세요.
+
+66. 다중 클래스 분류 시 macro vs. micro 평균의 차이를 설명하세요.
+
+67. 회귀 모델 평가 지표로 MSE, RMSE, MAE의 차이를 비교하세요.
+
+68. R² 점수의 한계점을 서술하세요.
+
+69. 로그 손실(Log Loss)의 정의와 의의를 설명하세요.
+
+70. Cohen’s Kappa 지표의 목적과 계산 방법을 제시하세요.
+
+71. 불균형 데이터에서 높은 정확도가 오도할 수 있는 상황을 설명하세요.
+
+72. 모델 안정성(Model Stability)을 평가하는 방법을 제안하세요.
+
+73. SHAP 값을 사용한 모델 해석(Model Interpretability)의 개념을 서술하세요.
+
+74. LIME(Local Interpretable Model-agnostic Explanations) 기법의 작동 원리를 설명하세요.
+
+75. 임계값(Threshold) 조정이 분류 모델 성능에 미치는 영향을 논의하세요.
+
+76. 학습 곡선(Learning Curve)을 해석하는 방법을 서술하세요.
+
+77. 검증 곡선(Validation Curve)의 활용 예를 제시하세요.
+
+78. 신뢰 구간(Confidence Interval)을 모델 평가 시 활용하는 방법을 설명하세요.
+
+79. 사용자 지정(Custom) 메트릭을 정의할 때 고려해야 할 요소를 제안하세요.
+
+80. A/B 테스트를 통해 모델 성능을 비교·평가하는 절차를 설명하세요.
+
+Objective 3.5
+Address business risks, ethical concerns, and related concepts (문항 81–100)
+
+81. 훈련 과정에서 발생할 수 있는 윤리적 리스크를 두 가지 이상 제시하세요.
+
+82. 알고리즘 편향(Algorithmic Bias)을 탐지하는 기법을 설명하세요.
+
+83. 공정성(Fairness) 지표 중 Demographic Parity의 개념을 서술하세요.
+
+84. Equalized Odds 지표의 정의와 목적을 설명하세요.
+
+85. 민감 속성(Sensitive Attribute)을 처리할 때 고려해야 할 윤리 원칙을 나열하세요.
+
+86. Differential Privacy 기법의 기본 원리를 설명하세요.
+
+87. 적대적 공격(Adversarial Attack)에 대한 방어 기법을 두 가지 제시하세요.
+
+88. 모델 모니터링(Model Monitoring)에서 드리프트(Drift)를 감지하는 지표를 설명하세요.
+
+89. 리스크 완화(Risk Mitigation) 플랜을 수립하는 절차를 제시하세요.
+
+90. AI 거버넌스(AI Governance) 프레임워크의 주요 구성 요소 네 가지를 나열하세요.
+
+91. 모델 배포 후 재훈련(Retraining) 주기를 결정하는 기준을 설명하세요.
+
+92. 이해관계자(Stakeholder)와의 위험 커뮤니케이션 전략을 제안하세요.
+
+93. 법적·규제 요구사항을 모델 개발 프로세스에 반영하는 방법을 설명하세요.
+
+94. 모델 개발 문서화(Documentation) 시 포함해야 할 핵심 항목을 나열하세요.
+
+95. 책임성(Accountability)을 보장하기 위한 프로세스를 서술하세요.
+
+96. 윤리적 AI 정책(Ethical AI Policy)을 수립하는 절차를 제안하세요.
+
+97. 모니터링 알림(Alerting) 시스템 구축 시 고려해야 할 요소를 제시하세요.
+
+98. 모델 설명 가능성(Explainability)을 높이기 위한 도구나 라이브러리를 세 가지 제시하세요.
+
+99. 모델 성능이 비즈니스 목표와 괴리될 때 대응 방안을 제안하세요.
+
+100. Domain 3.0 전 범위를 종합한 복합(Composite) 문제를 한 문장으로 작성하세요.
+
