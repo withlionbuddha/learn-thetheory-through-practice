@@ -22,7 +22,6 @@
 | numpy            | 2.0.2   | BSD 3‑Clause License ([numpy.org][5])   | See [LICENSE](<./THIRD-PARTY-LICENSES>)              |
 | pandas           | 2.3.1   | BSD 3‑Clause License ([Pandas][6])      | See [LICENSE](<./THIRD-PARTY-LICENSES>)              |
 | seaborn          | 0.13.2  | BSD 3‑Clause License ([PyPI][7])        | See [LICENSE](<./THIRD-PARTY-LICENSES>)              |
-| factor_analyzer  | 0.5.1   | GNU General Public License (>= 2)([PyPI][8])| See [LICENSE](<./THIRD-PARTY-LICENSES>)          |
 
 [1]: https://github.com/pypa/setuptools/blob/main/LICENSE?utm_source=chatgpt.com "MIT license - pypa/setuptools - GitHub"
 [2]: https://pypi.org/project/ipykernel/?utm_source=chatgpt.com "ipykernel - PyPI"
@@ -31,4 +30,3 @@
 [5]: https://numpy.org/doc/stable/license.html?utm_source=chatgpt.com "NumPy license — NumPy v2.3 Manual"
 [6]: https://pandas.pydata.org/docs/getting_started/overview.html?utm_source=chatgpt.com "Package overview — pandas 2.3.1 documentation - PyData |"
 [7]: https://pypi.org/project/seaborn/?utm_source=chatgpt.com "seaborn - PyPI"
-[8]: https://pypi.org/project/factor-analyzer/?utm_source=chatgpt.com "factor-analyzer - PyPI"

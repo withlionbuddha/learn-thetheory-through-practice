@@ -1,0 +1,22 @@
+5. 머신러닝 Use Case를 선정할 때 고려해야 할 주요 평가 지표 세 가지를 나열하세요.
+
+
+1. 실행 가능성 (Feasibility) / 데이터 준비 및 기술 난이도
+
+데이터 수집·정제 정도와 품질, 필요한 기술 스택 및 팀 역량 등을 평가
+
+Assess data availability/quality and required technical complexity
+
+2. 비즈니스 영향력 (Impact) / ROI, 매출 증대·비용 절감 잠재력
+
+예상되는 매출 증가, 비용 절감, 고객 만족도 향상 등 정량·정성적 가치를 수치화
+
+Quantify expected revenue uplift, cost savings or customer‑experience gains
+
+3. 투입 노력 (Effort) / 개발·운영 자원 및 시간
+
+모델 개발·튜닝·배포·유지보수에 필요한 인력·시간·인프라 비용을 추정
+
+Estimate required resources (person‑hours, infrastructure costs, maintenance)
+
+

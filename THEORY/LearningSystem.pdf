@@ -1,0 +1,31 @@
+학습 시스템(Learning System)의 정의
+
+한글 정의
+학습 시스템은 **데이터(경험)**를 바탕으로 성능을 스스로 향상시키는 자동화된 알고리즘 구조를 말합니다.
+
+입력 단계: 센서·로그·데이터베이스 등에서 원시 데이터를 수집
+
+모델링 단계: 수집된 데이터를 이용해 예측·분류·최적화 모델을 학습
+
+출력 단계: 학습된 모델로 예측·판단을 수행
+
+피드백 단계: 실제 결과를 모델 성능과 비교하여 오차·성과를 평가
+
+업데이트 단계: 피드백 정보를 반영해 모델 파라미터를 조정함으로써 다음 사이클에서 더 나은 성능 달성
+
+이처럼 **순환 학습 루프(Feedback Loop)**를 통해 시스템이 지속적으로 개선되기 때문에, 단 한번의 학습이 아니라 반복적인 경험 축적으로 높은 정확도와 적응력을 확보할 수 있습니다.
+
+English Definition
+A learning system is an automated algorithmic framework that improves its performance on a given task by learning from data (experience). It consists of:
+
+Data Ingestion: collecting raw inputs from sensors, logs, or databases
+
+Model Training: using the data to train predictive, classification, or optimization models
+
+Inference: applying the trained model to make predictions or decisions
+
+Feedback: comparing predictions with actual outcomes to evaluate performance
+
+Update: adjusting model parameters based on feedback for better future performance
+
+Because of this iterative feedback loop, learning systems continually refine themselves, achieving higher accuracy and adaptability over time.
