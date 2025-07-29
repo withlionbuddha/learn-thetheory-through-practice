@@ -1,0 +1,202 @@
+Domain 1.0: Understanding the Artificial Intelligence Problem
+(총 100문제)
+
+1. AI와 ML의 차이를 서술하세요.
+
+2. 머신러닝이 비즈니스 문제 해결에 어떻게 활용될 수 있는지 예를 들어 설명하세요.
+
+3. 이미지 인식, NLP, 추천 시스템 중 하나를 선택해 비즈니스 사례를 제시하세요.
+
+4. 학습 시스템(learning system)의 정의를 설명하세요.
+
+5. 머신러닝 Use Case를 선정할 때 고려해야 할 주요 평가 지표 세 가지를 나열하세요.
+
+6. “성공 확률(success probability)”을 어떻게 정량화할 수 있나요?
+
+7. Use Case의 예상 비용과 편익을 정리하고 우선순위를 매기는 방법을 서술하세요.
+
+8. 의료 영상 분석 Use Case의 주요 리스크를 두 가지 이상 제시하세요.
+
+9. NLP 기반 챗봇 프로젝트의 성공 확률을 높이기 위한 전략을 세 가지 제안하세요.
+
+10. 추천 시스템 도입 전 이해관계자(stakeholder)와 협의할 핵심 항목을 세 가지 쓰세요.
+
+11. 머신러닝 시스템 개발 중 커뮤니케이션이 중요한 이유를 설명하세요.
+
+12. 이해관계자의 기대치(expectations)를 조율하는 방법을 두 가지 기술하세요.
+
+13. 프로젝트 현황(status)을 보고(report)할 때 포함해야 할 핵심 지표를 세 가지 쓰세요.
+
+14. 피드백 루프(feedback loop)가 무엇이며, ML 프로젝트에서 어떻게 활용되는지 간단히 설명하세요.
+
+15. 프로젝트 시작 단계에서 잠재적 윤리 이슈를 식별하는 절차를 서술하세요.
+
+16. 개인정보(PII)를 처리하는 ML 모델에서 주의해야 할 규제나 법규를 두 가지 쓰세요.
+
+17. 데이터 편향(bias)이 발생하는 원인을 두 가지 이상 제시하세요.
+
+18. 편향된 학습 데이터로 인해 발생할 수 있는 비즈니스 리스크를 설명하세요.
+
+19. AI 윤리 프레임워크(예: GDPR, AI Bill of Rights) 중 하나를 선택해 주요 내용을 요약하세요.
+
+20. ML Use Case를 ROI(투자수익율) 기준으로 평가하는 방법을 단계별로 서술하세요.
+
+21. 이미지 인식 모델 개발 전 비즈니스 요구사항을 정의하는 절차를 작성하세요.
+
+22. 음성 인식 시스템의 잠재적 윤리 문제를 두 가지 이상 쓰세요.
+
+23. 추천 시스템의 투명성(transparency)을 확보하기 위한 방안을 제시하세요.
+
+24. 이해관계자에게 모델의 한계(limitations)를 설명할 때 유용한 예시를 드세요.
+
+25. ML 시스템의 성공 여부를 판단할 수 있는 KPI 예시 세 가지를 쓰세요.
+
+26. Use Case별로 데이터 준비(data readiness)를 점검하는 체크리스트 항목을 네 가지 작성하세요.
+
+27. 비즈니스 문제를 ML 문제로 전환(mapping)하는 과정을 단계별로 설명하세요.
+
+28. “Discovery & Diagnostic Systems”의 예시를 하나 들고, 그 활용 방안을 설명하세요.
+
+29. 비즈니스 리스크 vs. 기술 리스크를 구분하고 예시를 각각 하나씩 쓰세요.
+
+30. 모델 적용 전 이해관계자 승인(approval)을 받기 위한 핵심 문서 세 가지를 나열하세요.
+
+31. ML Use Case의 타당성을 검증하기 위한 PoC(Proof of Concept)의 목적을 쓰세요.
+
+32. PoC 단계에서 산출해야 할 성과물(deliverable)을 두 가지 이상 기술하세요.
+
+33. PoC 이후 프로덕션(production) 단계로 전환할 때 고려할 요소 네 가지를 쓰세요.
+
+34. ML 프로젝트 관리에서 애자일(Agile) 방법론을 적용하는 장점을 쓰세요.
+
+35. 모델 개발에 사용되는 데이터의 출처(source)를 분류하고 예시를 들으세요.
+
+36. 모델 구축 시 윤리적 가이드라인(Ethical Guidelines)을 수립하는 절차를 간단히 서술하세요.
+
+37. “Governance” 관점에서 체크해야 할 ML 파이프라인 관리 항목을 세 가지 쓰세요.
+
+38. 이해관계자 간 협업(collaboration)을 촉진하기 위한 워크샵 아이디어를 제시하세요.
+
+39. ML Use Case의 비즈니스 가치(business value)를 정량적으로 측정하는 방식을 하나 설명하세요.
+
+40. Use Case 목표가 변경될 때 커뮤니케이션 플랜(comm plan)을 수정하는 절차를 쓰세요.
+
+41. Domain 1.1 목표(Objective 1.1)를 만족하는 단답형 이론 질문을 2개 작성하세요.
+
+42. Objective 1.2에 기반한 사례 분석(case study) 문제를 하나 만드세요.
+
+43. Objective 1.3 “Research Learning Systems”에 대한 단답형 정의 질문을 쓰세요.
+
+44. Objective 1.4 “Analyze ML system use cases”의 답안 예시를 두 문장으로 작성하세요.
+
+45. Objective 1.5 “Communicate with stakeholders”에 관한 역할극(role play) 문제를 설계하세요.
+
+46. Objective 1.6 “Identify potential ethical concerns”에서 채점 기준(rubric)을 제시하세요.
+
+47. AI 프로젝트의 비즈니스 케이스(business case) 작성 시 포함할 섹션(section)을 네 가지 나열하세요.
+
+48. 챗봇 Use Case에서 예상되는 편익(benefit)을 수치화하는 방법을 설명하세요.
+
+49. 이미지 분류 모델 제작에 필요한 이해관계자를 4개 그룹으로 분류하세요.
+
+50. GDPR이 ML 데이터 수집에 미치는 영향을 쓰세요.
+
+51. ML Use Case의 초기 데이터 탐색(EDA) 시 윤리적 검토 단계를 기술하세요.
+
+52. Objective 1 전 범위 복합(composite) 문제를 하나 작성하세요.
+
+53. Objective 1을 주제로 한 O/X 퀴즈 5문제를 만들어 보세요.
+
+54. 사례 시나리오: “고객 서비스 자동화” Use Case 설계 과제를 기술하세요.
+
+55. 이해관계자 설문조사(survey) 설계 시 포함할 질문 예시 세 가지를 쓰세요.
+
+56. Use Case 문서화(documentation) 시 템플릿 구성 요소를 네 가지 제안하세요.
+
+57. AI/ML 프로젝트 승인 프로세스(approval process)를 흐름도(flowchart)로 설명하세요.
+
+58. ML 시스템 PoC 예산을 산정하는 항목을 다섯 가지 쓰세요.
+
+59. 비즈니스 전략과 기술 로드맵(tech roadmap)을 연계하는 방법을 설명하세요.
+
+60. 모델 실패(failure) 시 이해관계자에게 보고하는 양식을 설계하세요.
+
+61. AI/ML Use Case의 ROI 분석 보고서 목차를 5개 항목으로 제시하세요.
+
+62. ML 시스템 성과 보고서(performance report)에 포함할 메트릭을 세 가지 쓰세요.
+
+63. Objective 1 이해도를 평가하는 단답형 퀴즈 5문제를 작성하세요.
+
+64. Use Case별 예상 일정(timeline) 샘플을 작성하세요.
+
+65. 비즈니스 리스크 관리 플랜(risk plan) 구성 요소를 네 가지 나열하세요.
+
+66. 프로젝트 Kick‑off 미팅의 아젠다(agenda) 예시를 작성하세요.
+
+67. 이해관계자 커뮤니케이션 매트릭스(matrix)를 설명하세요.
+
+68. Machine Learning과 Deep Learning Use Case의 차이를 사례로 설명하세요.
+
+69. Objective 1 복합 사례(case) 문제를 하나 만들고, 답안 요약을 쓰세요.
+
+70. ML 프로젝트 진행 중 이탈률(churn rate)을 모니터링하는 이유를 간단히 설명하세요.
+
+71. 이해관계자별(경영진, 엔지니어, 사용자) 보고서 포맷을 각각 한 문장으로 기술하세요.
+
+72. 모델 가동 전 보안(Security) 체크리스트 항목을 세 가지 쓰세요.
+
+73. AI Use Case의 법적(legal) 이슈를 두 가지 이상 제시하세요.
+
+74. Objective 1 시험 대비 학습 팁 3가지를 제안하세요.
+
+75. Objective 1 핵심 개념 10개를 키워드로 나열하세요.
+
+76. “AI vs. ML vs. DL” 개념 혼동 방지법을 서술하세요.
+
+77. 비즈니스 가치(business impact) vs. 기술 난이도(technical difficulty) 평가 매트릭스를 제안하세요.
+
+78. 프레젠테이션 슬라이드에 포함할 주요 포인트 5개를 쓰세요.
+
+79. 이해관계자 피드백(feedback) 수집 양식을 설계하세요.
+
+80. AI 윤리 워크샵 질문 예시 5개를 작성하세요.
+
+81. Use Case별 비용 산정 모델(cost model) 기본 구조를 설계하세요.
+
+82. 프로젝트 일정 지연(delay) 시 커뮤니케이션 방안을 제시하세요.
+
+83. Objective 1 용어(terminology) 퀴즈 5문제를 작성하세요.
+
+84. ML Use Case 진행 보고서(report) 예시 포맷을 설계하세요.
+
+85. Objective 1 실습 과제 실전 아이디어를 두 가지 제안하세요.
+
+86. Objective 1 범위로 그룹 스터디 토론 주제 3가지를 작성하세요.
+
+87. Use Case 상용화(commercialization) 전 고려해야 할 네 가지 요인을 쓰세요.
+
+88. AI/ML 프로젝트 QA 검토 항목을 다섯 가지 기술하세요.
+
+89. Objective 1 시험에서 자주 출제되는 패턴을 정리하세요.
+
+90. AI 서비스 출시(post‑launch) 시 이해관계자 커뮤니케이션 체크리스트를 쓰세요.
+
+91. Use Case별 성공 사례(success story) 소개 형식을 제안하세요.
+
+92. 프로젝트 관리 도구(Trello, Jira 등) 활용 팁을 세 가지 작성하세요.
+
+93. Objective 1 관련 추천 도서 또는 자료를 세 권 추천하세요.
+
+94. Use Case 우선순위(prioritization) 매트릭스 예시를 그려 보세요.
+
+95. Objective 1 취약점(weakness) 보완 학습 플랜을 작성하세요.
+
+96. 비즈니스 문제 정의 템플릿 Sample을 작성하세요.
+
+97. 이해관계자 승인 절차(approval workflow)를 순서도(flowchart)로 설명하세요.
+
+98. Use Case 위험(risk) 대응 전략을 네 가지 제시하세요.
+
+99. Objective 1 시험 대비 요약 노트를 직접 구성해보세요.
+
+100. Objective 1 전 범위 종합 모의시험(mock exam) 5문제 주제를 제안하세요.
