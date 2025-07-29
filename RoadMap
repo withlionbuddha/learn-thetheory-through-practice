@@ -1,0 +1,86 @@
+| Day | Domain & Objective | 핵심 개념 (Core Concepts)                                                                                                                                                                                                                                                                                                                          |
+|  1  | Domain 1.1         | AI와 ML 정의 (Define AI vs. ML)
+                                – AI: 지능적 행위, ML: 데이터 기반 학습 (AI is any intelligent behavior, ML is data‑driven learning)
+
+|  2  | Domain 1.2         | Use Case 성공 확률 분석(Rank ML use cases by success probability)
+                                – 성공 확률 = 예상 효과/노력(Success prob = impact/effort)       
+
+|  3  | Domain 1.3         | 이미지·NLP·예측 시스템 조사 (Survey learning systems)
+                                – 이미지, NLP, 추천, 진단, 로보틱스 Use Case 조사
+
+|  4  | Domain 1.4         | ML 시스템 사례 분석(Analyze ML system use cases)
+                                – 비용·효과·리스크 평가
+
+|  5  | Domain 1.5         | Stakeholder 커뮤니케이션(Communicate with stakeholders)
+                                – 기대치 정립·현황 공유·피드백 루프
+
+|  6  | Domain 1.6         | 윤리 이슈 식별(Identify potential ethical concerns)
+                                - 개인정보, 편향, 투명성
+
+|  7  | Domain 2.1         | 데이터 품질 vs. 모델 성능(Data quality vs. model performance)
+                              – 노이즈·결측치·샘플 사이즈 영향
+
+|  8  | Domain 2.2         | 데이터 변환 기법(Data transformations)
+                              – 표준화, 정규화, 로그·제곱근 변환
+
+|  10 | Domain 2.4         | 수치·범주형 변환(Transform numeric & categorical)
+                              – One‑Hot, Ordinal, Target Encoding  
+
+|  11 | Domain 2.5         | 데이터 탐색 윤리·리스크(Address ethical risks in EDA)
+                              – 민감 속성·편향 탐지          
+
+|  12 | Domain 3.1         | ML/DL 모델 설계 (Design ML & DL models)
+                              – 지도 vs. 비지도, CNN vs. RNN    
+
+|  13 | Domain 3.2         | 알고리즘 최적화(Optimize algorithms)
+                              – 정규화, 하이퍼파라미터 튜닝 
+
+|  14 | Domain 3.3         | 데이터 분할(Train/Validation/Test split)
+
+|  15 | Domain 3.4         | 모델 평가 지표(Evaluate with metrics)
+                              – Accuracy, Precision, Recall, F1, ROC‑AUC       
+
+|  16 | Domain 3.5         | 훈련 윤리·비즈니스 리스크(Ethics & risk in training)
+                              – 투명성, 책임, 재현성   
+
+|  17 | Domain 4.1         | 모델 배포(Deploy a model)
+                              – REST API, Docker 컨테이너  
+
+|  18 | Domain 4.2         | 파이프라인 보안(Secure the pipeline)
+                              – TLS, API 키 관리, IAM   
+
+|  19 | Domain 4.3         | 운영 후 유지관리(Maintain post-production)
+                              – 모니터링, 알림, 재학습 전략 
+
+|  20 | Domain 4.4         | 운영 윤리·리스크(Ethics & risk in operation)
+                              – 드리프트 대응, 거버넌스   
+
+|  21 | 종합 Review Ⅰ      | Domain 1 리뷰(Review Domain 1)
+                              – 핵심 6개 Objective 복습   
+|
+|  22 | 종합 Review Ⅱ      | Domain 2 리뷰(Review Domain 2)
+                              – 변환 기법·인코딩 복습    
+|
+|  23 | 종합 Review Ⅲ      | Domain 3 리뷰(Review Domain 3)
+                              – 모델 설계·평가 복습    
+|
+|  24 | 종합 Review Ⅳ      | Domain 4 리뷰(Review Domain 4)
+                              – 배포·보안·유지관리 복습     
+|
+|  25 | 윤리·규제 심화       | AI 윤리·규제 심화(Deep Dive into AI Ethics & Governance)
+                              – GDPR, 책임소재
+|
+|  26 | 실전 코딩 과제       | End-to-End 실습(End-to-End project)
+                              – 데이터 로드→전처리→모델→배포 워크플로우  
+|
+|  27 | 모의시험 Ⅰ          |  Mock Test(Mock Test)
+                              – 객관식 80문제 풀이        
+|
+|  28 | 모의시험 Ⅱ          | Mock Test(Mock Test Ⅱ)
+                              – 코딩 실습 3문제 풀이          
+|
+|  29 | 최종 정리            | 최종 정리 & Q\&A(Final Review & Q\&A)
+                              – 약점 보완, 주요 개념 재점검       
+|
+|  30 | 시험 전 점검         | 시험 전 점검(Pre‑exam checklist)
+                              – 환경 확인, 문서 준비, 멘탈 관리                                                                                                                                                                                                                                                                                                       |
