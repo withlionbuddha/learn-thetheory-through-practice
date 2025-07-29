@@ -5,6 +5,12 @@
 - Research Use (Free): 
   See [RESEARCH LICENSE](<./LICENSES/LICENSE>) for details.
 
+        7. Exclusion of Non‑Compliant Entities  
+         Research Use rights are not granted to any business entity that  
+         fails to fulfill its contract‑issuance obligations under applicable law.  
+      
+         For example, KT Co., Ltd
+
 ## THIRD PARTY LICENSE 
 
 | LIBRARY          | VERSION | LICENSE                                 | PATH                                                 |
