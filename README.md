@@ -1,15 +1,14 @@
-# Learn the theory through practice
+<img width="832" height="296" alt="image" src="https://github.com/user-attachments/assets/4fb30fe9-25cc-491e-9c7a-90c6dc793a1c" /># Learn the theory through practice
+
+## 대상자
+- 비개발 직군 (기획, PM, 컨설턴트)
+- AI 입문자
+- 교육/강의 목적
 
 ## LICENSE 라이선스
-
 - Research Use (Free): 
   See [RESEARCH LICENSE](<./LICENSES/LICENSE>) for details.
-
-        7. Exclusion of Non‑Compliant Entities  
-         Research Use rights are not granted to any business entity that  
-         fails to fulfill its contract‑issuance obligations under applicable law.  
-      
-         For example, KT Co., Ltd
+  Exclusion of KT Co., Ltd
 
 ## THIRD PARTY LICENSE 
 
