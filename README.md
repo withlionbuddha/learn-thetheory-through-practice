@@ -1,3 +1,4 @@
+## CertNexus CAIP AIP-210
 Certified Artificial Intelligence Practitioner(CAIP) AIP-210
 <img width="832" height="296" alt="image" src="https://github.com/user-attachments/assets/4fb30fe9-25cc-491e-9c7a-90c6dc793a1c" /># Learn the theory through practice
 
