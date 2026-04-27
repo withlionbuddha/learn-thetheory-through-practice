@@ -1,9 +1,16 @@
+Certified Artificial Intelligence Practitioner(CAIP) AIP-210
 <img width="832" height="296" alt="image" src="https://github.com/user-attachments/assets/4fb30fe9-25cc-491e-9c7a-90c6dc793a1c" /># Learn the theory through practice
 
 ## 대상자
-- 비개발 직군 (기획, PM, 컨설턴트)
-- AI 입문자
-- 교육/강의 목적
+- 1~3년 경험의 AI/데이터 실무자
+
+## 인증
+- ANAB (ISO/IEC 17024) 인증 시험
+
+## 장점
+- vendor-neutral (플랫폼 종속 아님)
+- AI 전체 흐름 커버
+- 국제 인증
 
 ## LICENSE 라이선스
 - Research Use (Free): 
